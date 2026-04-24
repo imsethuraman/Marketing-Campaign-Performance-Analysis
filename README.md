@@ -8,7 +8,7 @@ Marketing teams often struggle to determine:
 
 Which campaign drives higher new customer acquisition
 Which channel delivers the best ROI
-Where to allocate budget for maximum impact
+Where to allocate the budget for maximum impact
 
 🛠️ Tools & Skills Used
 
@@ -16,6 +16,11 @@ Excel → Data cleaning & aggregation
 Data Analysis → KPI tracking (Revenue, New Customers)
 Visualization → Campaign performance comparison
 Business Strategy → Recommendation framework
+
+🆕 Findings
+
+<img width="1280" height="720" alt="Data_Slide_Template_Final" src="https://github.com/user-attachments/assets/a48f2ecf-02eb-4275-9baf-4e14e2b70699" />
+
 
 📈 Key Metrics Analyzed
 
@@ -29,7 +34,7 @@ Business Strategy → Recommendation framework
 
 Campaign A generated ~$3,727 in new customer sales
 Campaign B generated only ~$2,117
-👉 Campaign A is clearly stronger for customer acquisition strategy
+👉 Campaign A is clearly stronger for the customer acquisition strategy
 
 2️⃣ Email is the Best Performing Channel
 
@@ -58,7 +63,7 @@ Consistent visuals across channels
 👉 Drives conversion + acquisition
 
 Campaign B
-Premium feel: “Exclusive Offer”
+Premium feel: “Exclusive Offer.”
 Minimal urgency
 More brand-focused
 
